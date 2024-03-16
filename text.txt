@@ -1,0 +1,77 @@
+tag > 
+
+heading > ( SEO - Search engine optimization ) << semnatic HTML ( heading )
+
+p >> css font size > font bold > color < ( p paragraph )
+
+h1 > h2 > h3 > h4 > h5 > h6 < 
+
+img > src > alt ( image source / link < alt source > alternative )
+
+div / span ( division / span ) div ( containers )
+
+element < document > block / inline 
+
+semnatic < nav > <nav></nav> / article > <article></article> / aside <aside></aside> / footer <footer></footer>
+
+nav / aside / article / footer 
+table ( thead / tbody )
+
+tr > table row 
+td > table data
+
+section id="hero-section" 
+header 
+link href
+title 
+meta 
+
+style > css < html tag style < first css reset 
+html css 3 ? 
+inline 
+internal 
+external 
+
+lv > inline > internal > external 
+lv > !important > inline > internal > id > class > external > id > class
+
+
+script > 
+link 
+
+လမ်းညွှန်ပေး တာ 
+css > text decoration : underline 
+        color: blue 
+        visited: violet 
+
+        flex box / grid
+        margin 
+        padding 
+        color 
+        background
+        background-image
+
+
+bootstrap  ( component library ) / component > responsive 
+
+4/3
+16/9
+1/1
+1/2 
+1/1 
+
+tailwind ( utility library ) 
+
+ul>li*14
+svg tag 
+
+flex 
+flex-direction default > row 
+
+px / rem >> default font size
+
+default browser < 12 px > 10px 
+
+vh / vw 
+view height < 100%
+view width < 100%
