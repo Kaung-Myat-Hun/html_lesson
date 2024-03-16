@@ -75,3 +75,6 @@ default browser < 12 px > 10px
 vh / vw 
 view height < 100%
 view width < 100%
+
+
+git init > initilize 
