@@ -78,3 +78,45 @@ view width < 100%
 
 
 git init > initilize 
+
+
+// Day 2
+
+margin : 10px 20px 30px 40px
+         top right bottom left ( clockwise )
+         up down / left right
+         up / left right / down 
+
+padding : same as margin 
+          
+
+width : calc( 100px - 20px ) => + -*/
+height : calc()
+
+4:3 / width : height 
+
+aspect-ratio => 4:3 / 16:9 / 20:9 / 21:9 / 1:1
+
+flex > 
+flex-direction < row / column 
+justify-content : sp ar / sp be / sp ev / center / left / right
+gap: 
+align-items: cent / 
+
+grid > 
+row-template : 1fr 1fr 1fr
+col-temp : 
+
+font : 
+
+cursor : 
+
+position > 
+relative / abosolute 
+fixed 
+sticky 
+
+translate > 
+transform > translate(x , y)
+rotate > (deg) X , Y , Z 
+scale > 1 / 2 / 3
