@@ -120,3 +120,19 @@ translate >
 transform > translate(x , y)
 rotate > (deg) X , Y , Z 
 scale > 1 / 2 / 3
+
+up to down 
+display none ( html element ) > display 
+
+opacity 
+
+box-shadow > x y z color;
+
+x y 
+
+ease > 10 / 2 * 5
+ease in > 
+ease in out 
+ease out 
+
+0% > 100% 

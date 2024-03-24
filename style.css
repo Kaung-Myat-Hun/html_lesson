@@ -1,0 +1,25 @@
+*{
+    margin: 0px;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    width: 50vw;
+    height: 50vh;
+    overflow: auto;
+}
+.animate-1{
+    width: 300px;
+    height: 300px;
+    margin: 100px;
+    background-color: black;
+    color: #fff;
+    animation-name: upDown;
+    animation-duration: 2s;
+    animation-iteration-count: infinite;
+}
+@keyframes upDown {
+    0% { transform: translateY(0px); }
+    50% { transform: translateY(100px); border-radius: 50%; background-color: brown; }
+    100% { transform: translateY(0px);}
+}
