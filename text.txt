@@ -136,3 +136,42 @@ ease in out
 ease out 
 
 0% > 100% 
+
+pseudo class > 
+
+:hover 
+:focus 
+:active 
+
+:before 
+:after 
+
+opacity
+box-shadow 
+text-shadow
+
+2018  2021 > gradient < 
+solid < 
+
+( direction deg ( up to down ) , color value% , color value% )
+
+border : 1px solid color ( dotted )
+
+img filter : blur ()
+
+webkit > google chrome < 
+moz > fire fox < 
+o > opera < 
+
+
+//
+favicon 
+layout 
+input ( neuromorphism )
+clip-path 
+clamp ()
+var 
+sibling 
+descending 
+before 
+after 
