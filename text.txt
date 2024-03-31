@@ -163,15 +163,29 @@ webkit > google chrome <
 moz > fire fox < 
 o > opera < 
 
-
 //
-favicon 
-layout 
+favicon  ( ico , svg ) png / jpg 
+layout ( flex )
 input ( neuromorphism )
 clip-path 
-clamp ()
+clamp ( v ( minimal ) , v (changes) , v ( maximal )) 
 var 
 sibling 
 descending 
 before 
 after 
+z-index 
+
+x y z 
+
+z-index default 0 1 2 3 4
+-1 -2 -3 
+
+width : clamp(200px , 50% , 600px)
+
+
+live code : {
+        first
+        second
+        third
+}
