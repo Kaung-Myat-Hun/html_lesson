@@ -189,3 +189,12 @@ live code : {
         second
         third
 }
+
+
+input type > text , passowrd , check , radio , file , email 
+
+background >> filter blur
+
+html css < last day 
+
+javascript 
